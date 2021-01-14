@@ -1,6 +1,63 @@
-{
-    "taskId": "1",
-    "containerNumber": 1,
-    "dateString": "01/01/21",
-    "weightKg": 1
-}
+[
+    {
+        "taskId": "1",
+        "containerNumber": 11,
+        "dateString": "2021-01-14T12:53:10.017Z",
+        "weightKg": 1.1
+    },
+    {
+        "taskId": "2",
+        "containerNumber": 22,
+        "dateString": "2021-02-12T12:52:20.017Z",
+        "weightKg": 2.2
+    },
+    {
+        "taskId": "3",
+        "containerNumber": 33,
+        "dateString": "2021-03-13T13:53:13.017Z",
+        "weightKg": 3.3
+    },
+    {
+        "taskId": "4",
+        "containerNumber": 44,
+        "dateString": "2021-01-14T12:53:10.017Z",
+        "weightKg": 4.4
+    },
+    {
+        "taskId": "5",
+        "containerNumber": 55,
+        "dateString": "2021-01-15T12:53:10.017Z",
+        "weightKg": 5.5
+    },
+    {
+        "taskId": "6",
+        "containerNumber": 66,
+        "dateString": "2021-01-16T12:53:10.017Z",
+        "weightKg": 6.6
+    },
+    {
+        "taskId": "7",
+        "containerNumber": 77,
+        "dateString": "2021-01-17T12:53:10.017Z",
+        "weightKg": 7.7
+    },
+    {
+        "taskId": "8",
+        "containerNumber": 88,
+        "dateString": "2021-01-18T12:53:10.017Z",
+        "weightKg": 8.8
+    },
+    {
+        "taskId": "9",
+        "containerNumber": 99,
+        "dateString": "2021-01-19T12:53:10.017Z",
+        "weightKg": 9.9
+    },
+    {
+        "taskId": "10",
+        "containerNumber": 1010,
+        "dateString": "2021-01-140T12:53:10.017Z",
+        "weightKg": 10.10
+    }
+    
+]
