@@ -1,7 +1,8 @@
-[{
-    "taskId": "1",
-    "containerNumber": 1,
-    "dateString": "2021-01-22T18:38:25.643553",
-    "weightKg": 1
-}
+[
+    {
+        "taskId": "1",
+        "containerNumber": 1,
+        "dateString": "2021-01-22T18:38:25.643553",
+        "weightKg": 1
+    }
 ]
